@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - enemy
+  - player
+  - screen_bounds
+  - carrot
+  - health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Player
+  - Platforms
+  - Enemies
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 336708903
+    locked: 0
+  - name: Platforms
+    uniqueID: 2531473739
+    locked: 0
+  - name: Items
+    uniqueID: 1942673193
+    locked: 0
+  - name: Enemies
+    uniqueID: 1364260523
+    locked: 0
+  - name: Player
+    uniqueID: 1244805603
+    locked: 0
+  - name: UI
+    uniqueID: 1389643305
+    locked: 0
